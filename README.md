@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-* [Prerequisites](#prerequisites)
+* [Downloads](#downloads)
 * [Built With](#built-with)
 * [Contributing](#contributing)
 * [Version](#version)
@@ -18,9 +18,8 @@ Inspired by pipefitters and electricians in the semiconductor industry who use t
 
 <img src="./app/src/main/assets/images/PipeBendCalc1.jpg" width="300"/>
 
-### Prerequisites
+### Downloads
 
-Google Play Store - Download
 [![](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.maars12.pipbendcalc)
 
 ## Built With

@@ -1,4 +1,4 @@
-# PipeBendCalcV5+ by MaArs12
+# PipeBendCalc by MaArs12
 
 ![GitHub](https://img.shields.io/github/repo-size/Maars12/PipeBendCalcV5?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/Maars12/PipeBendCalcV5?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/Maars12/PipeBendCalcV5?style=plastic) ![GitHub](https://img.shields.io/github/license/Maars12/PipeBendCalcV5?style=plastic) ![GitHub](https://img.shields.io/github/followers/Maars12?style=social)
 

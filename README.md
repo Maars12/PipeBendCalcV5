@@ -21,7 +21,7 @@ Inspired by pipefitters and electricians in the semiconductor industry who use t
 ### Prerequisites
 
 Google Play Store - Download
-https://play.google.com/store/apps/details?id=com.maars12.pipbendcalc
+[![](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.maars12.pipbendcalc)
 
 ## Built With
 

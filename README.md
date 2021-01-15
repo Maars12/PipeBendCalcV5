@@ -1,4 +1,4 @@
-# PipeBendCalcV5 by MaArs12
+# PipeBendCalcV5+ by MaArs12
 
 ![GitHub](https://img.shields.io/github/repo-size/Maars12/PipeBendCalcV5?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/Maars12/PipeBendCalcV5?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/Maars12/PipeBendCalcV5?style=plastic) ![GitHub](https://img.shields.io/github/license/Maars12/PipeBendCalcV5?style=plastic) ![GitHub](https://img.shields.io/github/followers/Maars12?style=social)
 
@@ -21,6 +21,7 @@ Inspired by pipefitters and electricians in the semiconductor industry who use t
 ### Prerequisites
 
 Google Play Store - Download
+https://play.google.com/store/apps/details?id=com.maars12.pipbendcalc
 
 ## Built With
 
@@ -38,8 +39,8 @@ Google Play Store - Download
 Alex Garber & Marcus Travis w/Maars12 Development Group
 
 ## Version
-(Update this as needed)
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+#1.0.5
 
 ## Authors
 
